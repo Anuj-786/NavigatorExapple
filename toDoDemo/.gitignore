@@ -1,0 +1,7 @@
+
+# Compiled source #
+###################
+
+*node_modules
+*android
+*ios
